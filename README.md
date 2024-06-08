@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # bmicalculator
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# CalcBMIFlutter
+>>>>>>> 349b7a77f2d751467365d767096bbb80084e10fe
